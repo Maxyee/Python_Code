@@ -1,0 +1,5 @@
+#Python Function and How it works
+
+def changeme(mylist):
+
+  mylist
