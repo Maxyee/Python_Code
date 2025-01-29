@@ -40,18 +40,13 @@ for linux or mac users
 ```bash
 source ./myenv/bin/activate
 ```
+
 ### Step 4
-
-we have to install the pip packages called WSQ
-
-`pip3 install -U wsq`
-
-### Step 5
 run all the necessary library from the `requirements.txt`
 
 command `pip install -r requirements.txt`
 
-### Step 6
+### Step 5
 
 Finally run the code
 
