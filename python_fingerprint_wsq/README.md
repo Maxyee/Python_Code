@@ -11,9 +11,9 @@ Submit your solution in a well-structured format, including code, documentation,
 ## Solution
 I divided my work in two different solutions. Both solution will work perfectly if all the dependencies are installed correctly. However,For my case I like to solve the problem in google colab environment because of its free, faster as well as pre-installed libraries.
 
-1. One part belongs to local machine where all the python packages and work will be stored in local machine.
+1. Solution One which can be written to local machine where all the python packages and files will be stored.
 - [Local Machine Solution](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
-2. Other part belongs to Google colab environment.
+2. Solution two is written in Jupyter Notebook into the Google colab environment.
 - [Google Colab Solution](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
 
 
@@ -41,3 +41,7 @@ Key Points:
 - WSQ is a compressed format (similar to JPEG but optimized for fingerprints). It stores the image in a wavelet-transformed form.
 - Matching requires minutiae points (ridge endings, bifurcations, etc.), which are extracted from the decompressed image.
 - Algorithms work on pixel data, not on compressed data.
+
+## Necessary Python Libraries
+1. https://github.com/idemia/python-wsq/blob/master/wsq/WsqImagePlugin.py
+2. https://pypi.org/project/wsq/
