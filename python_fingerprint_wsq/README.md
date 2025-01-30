@@ -12,9 +12,9 @@ Submit your solution in a well-structured format, including code, documentation,
 I divided my work in two different solutions. Both solution will work perfectly if all the dependencies are installed correctly. However,For my case I like to solve the problem in google colab environment because of its free, faster as well as pre-installed libraries.
 
 1. Solution One which can be written to local machine where all the python packages and files will be stored.
-- [Local Machine Solution](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
+- [Local Machine Solution](https://github.com/Maxyee/Python_Code/tree/master/python_fingerprint_wsq/local_machine_solution)
 2. Solution two is written in Jupyter Notebook into the Google colab environment.
-- [Google Colab Solution](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
+- [Google Colab Solution](https://github.com/Maxyee/Python_Code/tree/master/python_fingerprint_wsq/google_colab_solution)
 
 
 ## What is WSQ:
