@@ -11,7 +11,7 @@ We need to consider two things.
 import the notebook file into google colab
 
 snapshot upload_notebook.png
-![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/local_machine_solution/snapshot/upload_notebook.png)
+![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/google_colab_solution/snapshot/upload_notebook.png)
 
 ### Step 2
 
@@ -21,11 +21,11 @@ upload dataset and the test file into the google colab file system
 `./sample_data/input_image.wsq`
 
 snapshot upload_dataset.png
-![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/local_machine_solution/snapshot/upload_dataset.png)
+![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/google_colab_solution/snapshot/upload_dataset.png)
 
 ### Step 3
 
 Now we are good to go. run all the cells from notebook and see the output.
 
 snapshot run_all.png
-![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/local_machine_solution/snapshot/run_all.png)
+![alt text](https://github.com/Maxyee/Python_Code/blob/master/python_fingerprint_wsq/google_colab_solution/snapshot/run_all.png)
