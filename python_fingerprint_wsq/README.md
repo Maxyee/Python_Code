@@ -34,7 +34,7 @@ https://github.com/robertvazan/fingerprint-datasets/blob/master/README.md
 
 
 ## Why Can't We Match WSQ Directly?
-you cannot directly match fingerprints in WSQ format without decoding them because WSQ is a compressed format, not a raw fingerprint feature representation. To perform matching, you need the actual fingerprint image or its minutiae points.
+we cannot directly match fingerprints in WSQ format without decoding them because WSQ is a compressed format, not a raw fingerprint feature representation. To perform matching, you need the actual fingerprint image or its minutiae points.
 
 Key Points:
 
